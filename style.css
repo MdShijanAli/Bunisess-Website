@@ -1,0 +1,75 @@
+.logo {
+    height: 60px;
+}
+
+
+.about-section {
+    padding: 100px 0;
+}
+
+.about-heading {
+    font-size: 36px;
+    font-weight: 700;
+    margin-bottom: 30px;
+}
+
+.about-description {
+    font-size: 18px;
+    line-height: 1.8;
+    margin-bottom: 30px;
+}
+
+.about-image {
+    max-width: 100%;
+    height: auto;
+}
+
+.btn-read-more {
+    background-color: #0069d9;
+    color: #fff;
+    border-radius: 30px;
+    padding: 10px 20px;
+    font-size: 18px;
+    font-weight: 500;
+    transition: all 0.3s ease-in-out;
+}
+
+.btn-read-more:hover {
+    background-color: #0052a4;
+}
+
+.about-section,
+.blog-section {
+    background: #F2F2F2;
+}
+
+.header {
+    background: #1F2937;
+    color: #fff;
+}
+
+.height {
+
+    height: 700px;
+}
+
+.top {
+    margin-top: 400px;
+
+}
+
+.card-img {
+    height: 300px !important;
+}
+
+
+
+
+/* html {
+    background: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwT7QqwMGcTG-XjMDi2zkwm7HKApwed5T3CQ&usqp=CAU') no-repeat center center fixed !important;
+    background-size: cover;
+}
+
+body {
+    overflow-y: scroll;
+} */
